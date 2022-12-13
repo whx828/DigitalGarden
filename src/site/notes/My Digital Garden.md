@@ -1,6 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-garden/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"/my-digital-garden/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
-hello world!
+测试
